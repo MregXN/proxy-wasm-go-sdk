@@ -4,8 +4,8 @@ go 1.19
 
 require (
 	github.com/higress-group/nottinygc v0.0.0-20231101025119-e93c4c2f8520
-	github.com/stretchr/testify v1.8.4
-	github.com/tetratelabs/wazero v1.6.0
+	github.com/stretchr/testify v1.9.0
+	github.com/tetratelabs/wazero v1.7.2
 )
 
 require (
